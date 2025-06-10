@@ -13,5 +13,6 @@ public class gitparctice {
 
         // github上の変更
         // sekiguchi編集
+        System.out.println("orehasawadaze");
     }
 }
