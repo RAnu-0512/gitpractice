@@ -10,5 +10,7 @@ public class gitparctice {
         // 新しい変更
 
         // 次の変更
+
+        // github上の変更
     }
 }
