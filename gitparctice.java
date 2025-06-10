@@ -12,5 +12,6 @@ public class gitparctice {
         // 次の変更
 
         // github上の変更
+        // sekiguchi編集
     }
 }
