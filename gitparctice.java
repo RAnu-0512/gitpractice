@@ -1,6 +1,7 @@
 public class gitparctice {
     public static void main(String[] args) {
-        System.out.println("test1!!!!!!!");
+
+        System.out.println("test2!!!!!!!!!!!");
 
         //adding
         System.out.println("Hello Inokuchi");
