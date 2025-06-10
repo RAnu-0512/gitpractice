@@ -2,14 +2,16 @@ public class gitparctice {
     public static void main(String[] args) {
 
         System.out.println("test2!!!!!!!!!!!");
-
+        // kyouhaame
         //adding
-        System.out.println("Hello Inokuchi");
+        System.out.println("konbanha");
 
 
         // 今はtestブランチです
         // 新しい変更
 
+
+        
         // 次の変更
 
         // github上の変更
