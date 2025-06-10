@@ -5,5 +5,7 @@ public class gitparctice {
         //adding
         System.out.println("Hello");
 
+
+        // 今はtestブランチです
     }
 }
