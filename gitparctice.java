@@ -8,5 +8,7 @@ public class gitparctice {
         
         // 今はtestブランチです
         // 新しい変更
+
+        // 次の変更
     }
 }
