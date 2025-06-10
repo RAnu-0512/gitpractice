@@ -1,11 +1,10 @@
 public class gitparctice {
     public static void main(String[] args) {
         System.out.println("Hello");
-        
-        //adding
+
+        // adding
         System.out.println("Hello");
 
-        
         // 今はtestブランチです
         // 新しい変更
 
