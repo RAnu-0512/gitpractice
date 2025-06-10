@@ -3,7 +3,7 @@ public class gitparctice {
         System.out.println("Hello");
         
         //adding
-        System.out.println("Hello");
+        System.out.println("Hello Inokuchi");
 
         
         // 今はtestブランチです
